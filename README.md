@@ -6,7 +6,7 @@ In this project, we classify the potability of water samples using the K-Nearest
 
 ## Dataset
 
-The dataset used for this project is sourced from Kaggle: [Water Quality Dataset](https://www.kaggle.com/code/amitpant7/k-nearest-neighbor/input)
+The dataset used for this project is sourced from Kaggle: [Water Quality Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 
 ## Project Structure
 
